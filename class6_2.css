@@ -1,0 +1,39 @@
+
+.a{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid blue;
+    background-color: yellow;
+    margin: 15px;
+}
+
+.b{
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid blue;
+    background-color: yellow;
+    margin-left: 50%;
+}
+
+.c{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+    border: 1px solid blue;
+    background-color: yellow;
+    margin: 10px;
+}
+.d{
+    display: none;
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+    border: 1px solid blue;
+    background-color: yellow;
+    margin: 10px;
+}

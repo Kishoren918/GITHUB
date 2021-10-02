@@ -1,0 +1,12 @@
+.abc {
+    border:green 5px dotted;
+}
+p[name="first_p"] {
+    background-color:cyan; text-align:center
+    }
+body{
+    background-color:purple
+}
+img{
+    border-radius:50%
+}
